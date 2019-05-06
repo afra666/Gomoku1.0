@@ -213,7 +213,7 @@ var pcAi=function(){
 			pcWin[k]++;
 			manWin[k]=6;
 			if (pcWin[k]==5) {
-				window.alert("Oops,你输了@@   PC win !");
+				window.alert("Oops,你输了@@   AI win !");
 				gameOver=true;
 			}
 		}
